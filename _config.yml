@@ -1,0 +1,14 @@
+layout_spectrum: 0.4516129
+typography_spectrum: 0.2939068
+color:
+  saturation: 0.1886173
+  lightness: 0.9834301
+  brandStrength: 0.6648746
+  brandColors:
+    - '#FFFFFF'
+    - '#0A0B10'
+    - '#606C8F'
+    - '#899CC6'
+    - '#373C51'
+  rhythmicContrast: 0.1557495
+name: Jon Jaques
